@@ -1,0 +1,166 @@
+{
+  "meals": [
+    {
+      "id": "s54d",
+      "title": "Salade au TonTonTon",
+      "country": "Nigeriaa",
+      "imageLink": "src/assets/meal1.jpg",
+      "presentation": "Le bon petit plaplat du tonton qui a récupéré cette formidable recette d'un ami du Nigéria!",
+      "ingredients": [
+        "salade",
+        "thon",
+        "poivre",
+        "sel"
+      ],
+      "price": "12",
+      "category": "plat"
+    },
+    {
+      "id": "q45z",
+      "title": "Poulet de Taramamama",
+      "country": "Ile de Madagascar",
+      "imageLink": "src/assets/meal2.jpg",
+      "presentation": "Un bon petit poulet tout sympa qui ravira vos poulets",
+      "ingredients": [
+        "poulet",
+        "saumon",
+        "patate Rouge",
+        "pain"
+      ],
+      "price": "28",
+      "category": "dessert"
+    },
+    {
+      "id": "5as3",
+      "title": "La dorade bleue de JeanJean",
+      "country": "Sautron",
+      "imageLink": "src/assets/meal3.jpg",
+      "presentation": "Une dorade, bien cuite, assaissonée à point nommé. Toute bleu, d'où son nom. Et c'est une idée de Jean",
+      "ingredients": [
+        "dorade",
+        "bleue d'auvergne",
+        "beaufort",
+        "sel"
+      ],
+      "price": 41,
+      "category": "plat"
+    },
+    {
+      "id": "45ea",
+      "title": "La viande hachée et son oeuf",
+      "country": "Cheylade",
+      "imageLink": "src/assets/meal4.jpg",
+      "presentation": "Une viande crue avec son oeuf dessus. Un classique, un indémodable indémodé. Venez goûter le Cantal",
+      "ingredients": [
+        "viande de boeuf",
+        "mie de pain",
+        "piment d'espelette",
+        "pouloulou"
+      ],
+      "price": 16,
+      "category": "plat"
+    },
+    {
+      "id": "a687",
+      "title": "Topinambours et Poisson",
+      "country": "Crac'h",
+      "imageLink": "src/assets/meal5.jpg",
+      "presentation": "Des patates de luxe avec un poisson qui l'est tout autant. Ce sont les 4 saisons réunies pour vous ici",
+      "ingredients": [
+        "topinambours",
+        "poiscaille",
+        "zeste de citron",
+        "eau marinée au lézard"
+      ],
+      "price": 11,
+      "category": "plat"
+    },
+    {
+      "id": "s547",
+      "title": "Ile flottante",
+      "country": "Colombie",
+      "imageLink": "src/assets/meal6.jpg",
+      "presentation": "Une exquise île flottante comme on en fait qu'en Colombie. Notre chef garde secret la composition de la poudre blanche délicatement saupoudrée sur l'île",
+      "ingredients": [
+        "oeuf",
+        "lait",
+        "sucre"
+      ],
+      "price": 27,
+      "category": "dessert"
+    },
+    {
+      "id": "f5d4",
+      "title": "Foie gras et ses croutons",
+      "country": "Corée du sud",
+      "imageLink": "src/assets/meal7.jpg",
+      "presentation": "Un foie gras délicieux marinée dans l'eau de cuisson des topinambours",
+      "ingredients": [
+        "oeuf",
+        "lait",
+        "sucre"
+      ],
+      "price": 27,
+      "category": "entrée"
+    },
+    {
+      "id": "9ade",
+      "title": "fez",
+      "country": "fezj",
+      "presentation": "ezfopk",
+      "price": "123",
+      "category": "plat",
+      "ingredients": [
+        "ezfzef",
+        "1"
+      ],
+      "imageLink": "src/assets/meal0.jpg"
+    },
+    {
+      "id": "3c64",
+      "title": "ed",
+      "country": "fez",
+      "presentation": "ezf",
+      "price": "40",
+      "category": "entree",
+      "ingredients": [
+        "ez"
+      ],
+      "imageLink": "src/assets/meal1.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "a687",
+      "title": "Topinambours et Poisson",
+      "country": "Crac'h",
+      "imageLink": "src/assets/meal5.jpg",
+      "presentation": "Des patates de luxe avec un poisson qui l'est tout autant. Ce sont les 4 saisons réunies pour vous ici",
+      "ingredients": [
+        "topinambours",
+        "poiscaille",
+        "zeste de citron",
+        "eau marinée au lézard"
+      ],
+      "price": 11,
+      "category": "plat",
+      "quantity": 5
+    },
+    {
+      "id": "s54d",
+      "title": "Salade au TonTonTon",
+      "country": "Nigeriaa",
+      "imageLink": "src/assets/meal1.jpg",
+      "presentation": "Le bon petit plaplat du tonton qui a récupéré cette formidable recette d'un ami du Nigéria!",
+      "ingredients": [
+        "salade",
+        "thon",
+        "poivre",
+        "sel"
+      ],
+      "price": "12",
+      "category": "plat",
+      "quantity": 3
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+nav {
+  background-color: #ffcc00;
+  box-shadow: 0px 5px 3px rgb(201, 199, 199);
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app > .container {
+  margin-top: auto;
+}
+
+.main {
+  width: 80%;
+  margin: auto;
+}
+
+.carousel {
+  width: 75vw;
+  margin: auto;
+  box-shadow: 2px 3px 5px 5px grey;
+}
+
+.carousel-item > img {
+  width: 100%;
+}
+
+.d-flex {
+  gap: 10px;
+}
+
+.card {
+  box-shadow: 0px 5px 3px rgb(201, 199, 199);
+}
+
+.card-meal {
+  width: 30%;
+}
+
+.card:hover,
+.logo:hover {
+  transform: scale(1.01);
+}
+
+.error {
+  color: red;
+}
+
+.total {
+  font-weight: bold;
+}
+
+canvas {
+  position: absolute;
+  z-index: -1;
+  height: 100vh;
+}
+
+.btn {
+  border-radius: 0% !important;
+  box-shadow: 1px 1px 3px grey;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+.btn-secondary {
+  background-color: white !important;
+  border: none !important;
+  color: black !important;
+}
+
+.btn-primary {
+  background-color: black !important;
+  border: none !important;
+  color: #ffcc00 !important;
+}
+
+.form-check {
+  margin: 0 !important;
+}
+
+.form-check-input:not(:checked) {
+  animation: glow 1s infinite alternate;
+}
+
+.form-check-input:checked {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 10px -10px #8f0404;
+  }
+  to {
+    box-shadow: 0 0 20px 20px #ffcc00;
+  }
+}
+
+.loading-div {
+  width: 600px !important;
+  height: 455px !important;
+}
